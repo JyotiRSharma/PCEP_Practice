@@ -3,9 +3,9 @@ Practicing for Python certification level 1
 <!DOCTYPE html>
 <html>
 <body>
-	<div>
+	<div align="center">
 		<figure style="height: 400px; overflow:hidden;">
-			<marquee><img src="https://raw.githubusercontent.com/JyotiRSharma/PCEP_Practice/main/PCEP.png" alt="Dream PCEP Certificate" style="height:400px; transition: all 1s linear;" onMouseOver="this.style.width='(this.clientWidth+100)+"px"'"></marquee>
+			<img src="https://raw.githubusercontent.com/JyotiRSharma/PCEP_Practice/main/PCEP.png" alt="Dream PCEP Certificate" style="height:400px; transition: all 1s linear;" onMouseOver="this.style.width='(this.clientWidth+100)+"px"'">
 		</figure>
 	</div>
 </body>
